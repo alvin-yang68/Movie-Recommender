@@ -1,0 +1,13 @@
+name: movie-recommender
+title:
+username:
+account: alvin-yang68
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3413912
+bundleId: 4003829
+url: https://alvin-yang68.shinyapps.io/movie-recommender/
+when: 1608254143.50869
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
