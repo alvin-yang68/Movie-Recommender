@@ -1,6 +1,7 @@
 # Movie Recommender
 
-Link to RShiny App for a movie recommendation based on user's review: https://alvin-yang68.shinyapps.io/movie-recommender/
+Link to RShiny App for a movie recommendation based on user's review: 
+https://alvin-yang68.shinyapps.io/movie-recommender/
 
 ## Description
 
